@@ -1,3 +1,3 @@
 # apnaCollege-demo
 First repo
-Author - Vaibhav
+Author - Vaibhav (Apna College)
